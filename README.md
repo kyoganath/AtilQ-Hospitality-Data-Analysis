@@ -88,7 +88,7 @@ Here’s a snapshot of the final dashboard with key business metrics and insight
 
 ## 🔧 Tools Used
 
-- Microsoft Excel / Power BI / Tableau
+- Microsoft Power BI 
 - SQL for data querying
 - Python (optional, for data preprocessing)
 
